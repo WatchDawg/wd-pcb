@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : TC2050-IDC-NL.LibPkg
+
+Section : N:\wd-pcb\Libraries\TC2050-IDC-NL\TC2050-IDC-NL.lia
+    Section : PCB Library - TC2050-IDC-NL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TC2050-IDC-NL On Line 203
+            Warning - 1 : Skipping Token attachedSymbol On Line 330
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TC2050-IDC-NL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 143
+            Warning - 1 : Skipping Token layerContents On Line 163
+            Warning - 1 : Skipping Token layerContents On Line 183
+            Warning - 1 : Skipping Token layerContents On Line 192
+        EndSection
+
+        Section : Generating SCH Library - TC2050-IDC-NL.SchLib
+        EndSection
+    EndSection
+EndSection

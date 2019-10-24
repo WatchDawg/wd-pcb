@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : CRCW06030000Z0EA.LibPkg
+
+Section : N:\wd-pcb\Libraries\CRCW06030000Z0EA\CRCW06030000Z0EA.lia
+    Section : PCB Library - CRCW06030000Z0EA.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CRCW06030000Z0EA On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 164
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CRCW06030000Z0EA.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+        EndSection
+
+        Section : Generating SCH Library - CRCW06030000Z0EA.SchLib
+        EndSection
+    EndSection
+EndSection

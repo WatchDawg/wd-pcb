@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ECS-.327-12.5-34B-TR.LibPkg
+
+Section : N:\wd-pcb\Libraries\ECS-.327-12.5-34B-TR\ECS-.327-12.5-34B-TR.lia
+    Section : PCB Library - ECS-.327-12.5-34B-TR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ECS-.327-12.5-34B-TR On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ECS-.327-12.5-34B-TR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - ECS-.327-12.5-34B-TR.SchLib
+        EndSection
+    EndSection
+EndSection

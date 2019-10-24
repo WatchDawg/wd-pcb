@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : TACL106K010XTA.LibPkg
+
+Section : N:\wd-pcb\Libraries\TACL106K010XTA\TACL106K010XTA.lia
+    Section : PCB Library - TACL106K010XTA.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TACL106K010XTA On Line 136
+            Warning - 1 : Skipping Token attachedSymbol On Line 191
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TACL106K010XTA.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 130
+        EndSection
+
+        Section : Generating SCH Library - TACL106K010XTA.SchLib
+        EndSection
+    EndSection
+EndSection

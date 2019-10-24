@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : GMK107BJ104KAHT.LibPkg
+
+Section : N:\wd-pcb\Libraries\GMK107BJ104KAHT\GMK107BJ104KAHT.lia
+    Section : PCB Library - GMK107BJ104KAHT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token GMK107BJ104KAHT On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - GMK107BJ104KAHT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - GMK107BJ104KAHT.SchLib
+        EndSection
+    EndSection
+EndSection
