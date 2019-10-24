@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : LIS3MDLTR.LibPkg
+
+Section : N:\wd-pcb\Libraries\LIS3MDLTR\LIS3MDLTR.lia
+    Section : PCB Library - LIS3MDLTR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LIS3MDLTR On Line 201
+            Warning - 1 : Skipping Token attachedSymbol On Line 348
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LIS3MDLTR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 119
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - LIS3MDLTR.SchLib
+        EndSection
+    EndSection
+EndSection
