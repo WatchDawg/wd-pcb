@@ -1,0 +1,28 @@
+Added Component: Designator=U5(RGT16_1P7X1P7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BQ24232RGTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT Pin=P2-1
+Added Pin To Net: NetName=VLDO Pin=P2-2
+Added Pin To Net: NetName=NetR4_2 Pin=U5-1
+Added Pin To Net: NetName=VBAT Pin=U5-2
+Added Pin To Net: NetName=VBAT Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=VOUT Pin=U5-6
+Added Pin To Net: NetName=NetR2_2 Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=NetR1_1 Pin=U5-9
+Added Pin To Net: NetName=VOUT Pin=U5-10
+Added Pin To Net: NetName=VOUT Pin=U5-11
+Added Pin To Net: NetName=VIN Pin=U5-13
+Added Pin To Net: NetName=NetR3_1 Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-17
+Added Member To Class: ClassName=Charger Member=Component U5 Part Number: BQ24232RGTT
+Added Room: Name=Charger
