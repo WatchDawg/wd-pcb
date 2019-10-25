@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : SML-D12U1WT86.LibPkg
+
+Section : C:\Users\pcjh\wd-pcb\Libraries\SML-D12U1WT86\SML-D12U1WT86.lia
+    Section : PCB Library - SML-D12U1WT86.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SML-D12U1WT86 On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 182
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*LED_SML-D12Y1WT86][Primary] associated with PCAD Component [SML-D12U1WT86] has been renamed to PCB FootPrint [*LED_SML-D12Y1WT86_SML-D12U1WT86(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - SML-D12U1WT86.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 93
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - SML-D12U1WT86.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*LED_SML-D12Y1WT86][Primary] associated with PCAD Component [SML-D12U1WT86] has been renamed to PCB FootPrint [*LED_SML-D12Y1WT86_SML-D12U1WT86(Primary)].
+        EndSection
+    EndSection
+EndSection
