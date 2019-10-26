@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : BQ24232HARGTR.LibPkg
+
+Section : C:\Users\pcjh\wd-pcb\Libraries\BQ24232HARGTR\BQ24232HARGTR.lia
+    Section : PCB Library - BQ24232HARGTR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BQ24232HARGTR On Line 160
+            Warning - 1 : Skipping Token attachedSymbol On Line 357
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - BQ24232HARGTR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 132
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 152
+        EndSection
+
+        Section : Generating SCH Library - BQ24232HARGTR.SchLib
+        EndSection
+    EndSection
+EndSection

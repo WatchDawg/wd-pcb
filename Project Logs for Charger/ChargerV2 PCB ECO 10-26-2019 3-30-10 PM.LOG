@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=VIN Pin=P2-5
+Added Room: Name=Charger
