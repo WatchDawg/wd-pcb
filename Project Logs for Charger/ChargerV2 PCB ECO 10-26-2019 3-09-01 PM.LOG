@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=CC3-1
-Change Component Designator: OldDesignator=U? NewDesignator=U1
-Added Pin To Net: NetName=VOUT Pin=CC3-1
-Added Pin To Net: NetName=GND Pin=CC3-2
-Added Pin To Net: NetName=VOUT Pin=U1-10
-Added Pin To Net: NetName=VOUT Pin=U1-11
-Added Room: Name=Charger
