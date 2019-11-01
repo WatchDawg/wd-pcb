@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\pcjh\Documents\wd-pcb\.PDF
+OutputFilePath2=N:\wd-pcb\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\pcjh\Documents\wd-pcb\
+OutputBasePath2=N:\wd-pcb\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\pcjh\Documents\wd-pcb\.PDF
+RelativeOutputPath2=N:\wd-pcb\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
